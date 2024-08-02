@@ -12,6 +12,7 @@ const questions = [{
 
 
 
+
 app.get("/", (req, res)=> {
     res.send(questions);
     // console.log(questions);
@@ -20,3 +21,6 @@ app.get("/", (req, res)=> {
 app.listen(port, function (req, res ) {
      console.log(`App running on port ${port}`)
 })
+
+
+// Line added using windows to check git
