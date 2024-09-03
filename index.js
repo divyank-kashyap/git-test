@@ -26,3 +26,5 @@ app.listen(port, function (req, res ) {
 // Line added using windows to check git
 
 // this line is added on proper ubuntu 
+//
+// line added to configure the git wsl
